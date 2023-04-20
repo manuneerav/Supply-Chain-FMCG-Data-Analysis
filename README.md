@@ -47,10 +47,26 @@ order is delivered BOTH in full and On Time as per the customer order request.
 
 -> An order is OTIF only when all the line items inside the order are delivered In Full 
 and ON Time. This is a hard metric which measures the reliability of an order from 
-customer's point of view. 
+customer's point of view.
+
+## Dataset Tables
+
+->dim_customers\
+->dim_dates\
+->dim_products\
+->dim_targets_orders\
+->dim_order_lines\
+->fact_orders_aggregate
 
 
 
+## Data Model
+
+
+
+
+
+![Screenshot (329)](https://user-images.githubusercontent.com/59529237/233276743-56336782-b729-4dbe-b964-b24e795eb0ca.png)
 
 
 
