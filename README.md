@@ -68,5 +68,21 @@ customer's point of view.
 
 ![Screenshot (329)](https://user-images.githubusercontent.com/59529237/233276743-56336782-b729-4dbe-b964-b24e795eb0ca.png)
 
+## Objectives
+
+->Line Fill Rate/Volume Fill Rate.\
+->Line Fill Rate by Customer Name.\
+->Volume Fill Rate by Customer Name.\
+->Total Orders, Total On-time Orders, Total In-Full Orders,On-time In-Full Orders by city.\
+->Total Orders, Total On-time Orders, Total In-Full Orders,On-time In-Full Orders by Customer Name.\
+->Calculate % variance between actual and target on-time(OT),in-full(IF) and on-time infull(OTIF) metrics by city.\
+->Top Customers by total Quantity Ordered, Infull Quantity Ordered and on-time Infull Quantity Ordered ordered by all order types.\
+->Bottom Customers by total Quantity Ordered, Infull Quantity Ordered and on-time Infull Quantity Ordered ordered by all order types.\
+-> Calculate actual OT%, IF%, OTIF% by Customers.\
+->Categorise the orders by product category for each customer in descending order.\
+->Most & Least Ordered Product by Customers.
+
+
+
 
 
