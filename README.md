@@ -82,6 +82,10 @@ customer's point of view.
 ->Categorise the orders by product category for each customer in descending order.\
 ->Most & Least Ordered Product by Customers.
 
+## Power BI Visualization
+
+https://drive.google.com/drive/folders/1Bi_2yc69PtU7HEFbQ-5Y-YxPUKiSdMgL
+
 
 
 
