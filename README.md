@@ -1,5 +1,9 @@
 # Supply-Chain-FMCG-Data-Analysis
 
+## Problem Statement
+
+The dataset was provided by codebasics for FMCG Company’s supply chain team in order to solve the problem about why the key customers are not retaining their annual contracts.
+
 ## Orders and Lines 
 
 -> Orders are nothing but a unique request placed by a customer on a given date\
